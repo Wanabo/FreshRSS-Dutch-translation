@@ -129,7 +129,7 @@ return array(
 		'feed_per_category' => 'Feeds per categorie',
 		'idle' => 'Gepauzeerde feeds',
 		'main' => 'Hoofd statistieken',
-		'main_stream' => 'Hoofd stroom',
+		'main_stream' => 'Overzicht',
 		'menu' => array(
 			'idle' => 'Gepauzeerde feeds',
 			'main' => 'Hoofd statistieken',
