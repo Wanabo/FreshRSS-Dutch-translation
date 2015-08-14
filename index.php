@@ -36,7 +36,7 @@ return array(
 		'before_one_week' => 'Ouder als een week',
 		'favorites' => 'Favorieten (%s)',
 		'global_view' => 'Globale weergave',
-		'main_stream' => 'Hoofd stroom',
+		'main_stream' => 'Overzicht',
 		'mark_all_read' => 'Markeer alles als gelezen',
 		'mark_cat_read' => 'Markeer categorie als gelezen',
 		'mark_feed_read' => 'Markeer feed als gelezen',
