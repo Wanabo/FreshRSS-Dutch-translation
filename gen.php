@@ -26,6 +26,7 @@ return array(
 		'login_persona' => 'Login met Persona',
 		'login_persona_problem' => 'Connectiviteits problemen met Persona?',
 		'logout' => 'Log uit',
+		'password' => 'Wachtwoord',
 		'reset' => 'Authenticatie reset',
 		'username' => 'Gebruikersnaam',
 		'username_admin' => 'Administrator gebruikersnaam',
