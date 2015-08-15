@@ -49,7 +49,7 @@ return array(
 		'april' => 'Apr',
 		'aug' => 'aug',
 		'august' => 'Aug',
-		'before_yesterday' => 'Voor gisteren',
+		'before_yesterday' => 'Ouder',
 		'dec' => 'dec',
 		'december' => 'Dec',
 		'feb' => 'feb',
