@@ -93,9 +93,9 @@ return array(
 		'number_divided_when_reader' => 'Gedeeld door 2 in de lees modus.',
 		'read' => array(
 			'article_open_on_website' => 'Als het artikel is geopend op de originele website',
-			'article_viewed' => 'als het artikel is bekeken',
-			'scroll' => 'tijdens scrollen',
-			'upon_reception' => 'tijdens ontvangst van het artikel',
+			'article_viewed' => 'Als het artikel is bekeken',
+			'scroll' => 'Tijdens scrollen',
+			'upon_reception' => 'Tijdens ontvangst van het artikel',
 			'when' => 'Markeer artikel als gelezen…',
 		),
 		'show' => array(
