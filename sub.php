@@ -29,6 +29,7 @@ return array(
 		'moved_category_deleted' => 'Als u een categorie verwijderd, worden de feeds automatisch geclassificeerd onder <em>%s</em>.',
 		'no_selected' => 'Geen feed geselecteerd.',
 		'number_entries' => '%d artikelen',
+		'pubsubhubbub' => 'Directe notificaties met PubSubHubbub',
 		'stats' => 'Statistieken',
 		'think_to_add' => 'Voeg wat feeds toe.',
 		'title' => 'Titel',
