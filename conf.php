@@ -86,10 +86,11 @@ return array(
 		'auto_remove_article' => 'Verberg artikel na lezen',
 		'confirm_enabled' => 'Toon een bevestigings dialoog op “markeer alles als gelezen” acties',
 		'display_articles_unfolded' => 'Toon artikelen uitgeklapt als standaard',
-		'display_categories_unfolded' => 'Toon categoriën ingeklapt(uitgeklapt??) als standaard',
+		'display_categories_unfolded' => 'Toon categoriën ingeklapt als standaard',
 		'hide_read_feeds' => 'Verberg categoriën en feeds zonder ongelezen artikelen (werkt niet met “Toon alle artikelen” configuratie)',
 		'img_with_lazyload' => 'Gbruik "lazy load" methode om afbeeldingen te laden',
 		'jump_next' => 'Ga naar volgende ongelezen (feed of categorie)',
+		'mark_updated_article_unread' => 'markeer vernieuwd artikel als ongelezen',
 		'number_divided_when_reader' => 'Gedeeld door 2 in de lees modus.',
 		'read' => array(
 			'article_open_on_website' => 'Als het artikel is geopend op de originele website',
