@@ -160,7 +160,7 @@ return array(
 		'create' => 'Creëer  nieuwe gebruiker',
 		'email_persona' => 'Log in mail adres<br /><small>(voor <a href="https://persona.org/" rel="external">Mozilla Persona</a>)</small>',
 		'language' => 'Taal',
-		'number' => 'Er is/zijn %d accounts gemaakt',
+		'number' => 'Er is %d accounts gemaakt',
 		'numbers' => 'Er zijn %d accounts gemaakt',
 		'password_form' => 'Wachtwoord<br /><small>(voor de Web-formulier log in methode)</small>',
 		'password_format' => 'Ten minste 7 tekens',
