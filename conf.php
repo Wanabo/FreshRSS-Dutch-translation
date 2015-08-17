@@ -90,7 +90,7 @@ return array(
 		'hide_read_feeds' => 'Verberg categoriën en feeds zonder ongelezen artikelen (werkt niet met “Toon alle artikelen” configuratie)',
 		'img_with_lazyload' => 'Gebruik "lazy load" methode om afbeeldingen te laden',
 		'jump_next' => 'Ga naar volgende ongelezen (feed of categorie)',
-		'mark_updated_article_unread' => 'markeer vernieuwd artikel als ongelezen',
+		'mark_updated_article_unread' => 'Markeer vernieuwd artikel als ongelezen',
 		'number_divided_when_reader' => 'Gedeeld door 2 in de lees modus.',
 		'read' => array(
 			'article_open_on_website' => 'Als het artikel is geopend op de originele website',
