@@ -4,7 +4,9 @@ return array(
 	'action' => array(
 		'finish' => 'Completeer installatie',
 		'fix_errors_before' => 'Repareer de fouten alvorens naar de volgende stap te gaan.',
+		'keep_install' => 'Behoud de vorige installatie',
 		'next_step' => 'Ga naar de volgende stap',
+		'reinstall' => 'Installeer FreshRSS opnieuw',
 	),
 	'auth' => array(
 		'email_persona' => 'Log in mail adres<br /><small>(voor <a href="https://persona.org/" rel="external">Mozilla Persona</a>)</small>',
@@ -31,6 +33,7 @@ return array(
 	),
 	'check' => array(
 		'_' => 'Controles',
+		'already_installed' => 'We hebben geconstateerd dat FreshRSS al is geïnstallerd!',
 		'cache' => array(
 			'nok' => 'Controleer permissies van de <em>./data/cache</em> map. HTTP server moet rechten hebben om er in te kunnen schrijven',
 			'ok' => 'Permissies van de cache map zijn goed.',
