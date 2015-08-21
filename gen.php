@@ -21,6 +21,7 @@ return array(
 		'truncate' => 'Verwijder alle artikelen',
 	),
 	'auth' => array(
+		'email' => 'Email adres',
 		'keep_logged_in' => 'Ingelogd blijven voor <small>(1 maand)</small>',
 		'login' => 'Log in',
 		'login_persona' => 'Login met Persona',
