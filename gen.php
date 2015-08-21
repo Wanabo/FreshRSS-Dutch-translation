@@ -116,6 +116,7 @@ return array(
 		'should_be_activated' => 'JavaScript moet aan staan',
 	),
 	'lang' => array(
+		'cz' => 'Čeština',
 		'de' => 'Deutsch',
 		'en' => 'English',
 		'fr' => 'Français',
