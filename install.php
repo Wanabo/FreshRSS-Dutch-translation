@@ -96,6 +96,9 @@ return array(
 	'delete_articles_after' => 'Verwijder artikelen na',
 	'fix_errors_before' => 'Repareer fouten alvorens U naar de volgende stap gaat.',
 	'javascript_is_better' => 'FreshRSS werkt beter JavaScript ingeschakeld',
+	'js' => array(
+		'confirm_reinstall' => 'U verliest uw vorige configuratie door FreshRSS opnieuw te installeren. Weet u zeker dat u verder wilt gaan?',
+	),
 	'language' => array(
 		'_' => 'Taal',
 		'choose' => 'Kies een taal voor FreshRSS',
