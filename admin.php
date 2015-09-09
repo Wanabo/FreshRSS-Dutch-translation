@@ -146,6 +146,16 @@ return array(
 		'title' => 'Statistieken',
 		'top_feed' => 'Top tien feeds',
 	),
+	'system' => array(
+		'_' => 'Systeem configuratie',
+		'instance-name' => 'Voorbeeld naam',
+		'max-categories' => 'Categoriën limiet per gebruiker',
+		'max-feeds' => 'Feed limiet per gebruiker',
+		'registration' => array(
+			'help' => '0 betekent geen account limiet',
+			'number' => 'Maximum aantal accounts',
+		),
+	),
 	'update' => array(
 		'_' => 'Versie controle',
 		'apply' => 'Toepassen',
@@ -164,11 +174,6 @@ return array(
 		'numbers' => 'Er zijn %d accounts gemaakt',
 		'password_form' => 'Wachtwoord<br /><small>(voor de Web-formulier log in methode)</small>',
 		'password_format' => 'Ten minste 7 tekens',
-		'registration' => array(
-			'allow' => 'Sta het maken van nieuwe accounts toe',
-			'help' => '0 betekent dat er geen account limiet is',
-			'number' => 'Max aantal van accounts',
-		),
 		'title' => 'Beheer gebruikers',
 		'user_list' => 'Lijst van gebruikers ',
 		'username' => 'Gebruikers naam',
