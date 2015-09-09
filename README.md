@@ -3,7 +3,7 @@
 Dutch translation / Nederlandse vertaling FreshRSS
 
 * Project website:  http://freshrss.org
-* License:          AGPL 3
+* Licentie:          AGPL 3
 * Versie:           1.1.3
 
 FreshRSS is een RSS feed aggregator om zelf te hosten. Het gebruikt weinig systeembronnen en is makkelijk te administreren terwijl het een krachtig en makkelijk te configureren programma is.
