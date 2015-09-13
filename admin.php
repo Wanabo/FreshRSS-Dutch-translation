@@ -120,7 +120,7 @@ return array(
 		'category' => 'Categorie',
 		'entry_count' => 'Invoer aantallen',
 		'entry_per_category' => 'Aantallen per categorie',
-		'entry_per_day' => 'Aantallen per day (laatste 30 dagen)',
+		'entry_per_day' => 'Aantallen per dag (laatste 30 dagen)',
 		'entry_per_day_of_week' => 'Per dag of week (gemiddeld: %.2f berichten)',
 		'entry_per_hour' => 'Per uur (gemiddeld: %.2f berichten)',
 		'entry_per_month' => 'Per maand (gemiddeld: %.2f berichten)',
